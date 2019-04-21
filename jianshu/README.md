@@ -4,7 +4,7 @@ react只能兼容到IE8
 
 ## 简书前端项目启动
 
-	## 1.下载源码后，运行命令：npm install安装依赖包
+## 1.下载源码后，运行命令：npm install安装依赖包
 
 ## 2.npm run start运行项目
 
